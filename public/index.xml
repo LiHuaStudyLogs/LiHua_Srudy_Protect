@@ -7,15 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>陈雨轩 | MyFirstBlog</copyright>
-        <lastBuildDate>Sun, 23 Nov 2025 19:33:23 +0800</lastBuildDate><atom:link href="https://LiHuaStudyLogs.github.io/hugo_Blogs/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>LiHua_Hugo搭建Blog——我利用Hugo框架搭建的第一篇博客</title>
-        <link>https://LiHuaStudyLogs.github.io/hugo_Blogs/p/lihua_hugo%E6%90%AD%E5%BB%BAblog%E6%88%91%E5%88%A9%E7%94%A8hugo%E6%A1%86%E6%9E%B6%E6%90%AD%E5%BB%BA%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
-        <pubDate>Sun, 23 Nov 2025 19:33:23 +0800</pubDate>
-        
-        <guid>https://LiHuaStudyLogs.github.io/hugo_Blogs/p/lihua_hugo%E6%90%AD%E5%BB%BAblog%E6%88%91%E5%88%A9%E7%94%A8hugo%E6%A1%86%E6%9E%B6%E6%90%AD%E5%BB%BA%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://LiHuaStudyLogs.github.io/hugo_Blogs/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Chinese Test</title>
         <link>https://LiHuaStudyLogs.github.io/hugo_Blogs/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
