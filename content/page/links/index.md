@@ -13,6 +13,10 @@ links:
     description: Stack is a document stake's offical provided to help people sitting up the theme of their own blogs.
     website: https://stack.jimmycai.com/
     image: https://stack.jimmycai.com/logo.png
+  - title: Hugo
+    description: hugo is a platform provided the servers,helping us to turn our .html/.css/.md  doc to public —— stactic web docs.
+    website: https://gohugo.io/
+    image: https://gohugo.io/images/hugo-logo-wide.svg  
 menu:
     main: 
         weight: -50

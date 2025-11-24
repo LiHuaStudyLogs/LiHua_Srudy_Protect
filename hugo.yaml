@@ -3,6 +3,9 @@ languageCode: en-us
 theme: hugo-theme-stack
 title: Example Site
 copyright: 陈雨轩 | MyFirstBlog
+caches:
+  images:
+    dir: :cacheDir/images
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -14,12 +17,12 @@ hasCJKLanguage: true
 
 languages:
     en:
-        languageName: 英语(我用存放官方文档，勿cue)
-        title: 杂货间罢了
-        weight: 2
+        languageName: 英语(勿cue)
+        title: 我用来放官方导航的仓库罢了
+        weight: 1
         params:
             sidebar:
-                subtitle: 喜欢读英语的有难了！
+                subtitle: 喜欢读英语的有难了         
     zh-cn:
         languageName: 简体中文
         title: 我的博客——网络日志
