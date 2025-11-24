@@ -84,7 +84,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://LiHuaStudyLogs.github.io/" \
+            --baseURL "https://lihuastudylogs.github.io/LiHua_Srudy_Protect/" \
 
         # --cacheDir "${{ runner.temp }}/hugo_cache"
 
