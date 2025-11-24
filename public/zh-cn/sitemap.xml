@@ -2,84 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/</loc>
     <lastmod>2025-11-24T20:44:21+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://lihuastudylogs.github.io/LiHua_Srudy_Protect/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/"
+                href="https://lihuastudylogs.github.io/LiHua_Srudy_Protect/"
                 />
   </url><url>
-    <loc>http://localhost:1313/p/automatic_set_public/</loc>
-    <lastmod>2025-11-24T20:44:21+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/post/</loc>
     <lastmod>2025-11-24T20:44:21+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/post/"
+                href="https://lihuastudylogs.github.io/LiHua_Srudy_Protect/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/post/"
+                href="https://lihuastudylogs.github.io/LiHua_Srudy_Protect/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/p/lihua_hugo%E6%90%AD%E5%BB%BAblog%E6%88%91%E5%88%A9%E7%94%A8hugo%E6%A1%86%E6%9E%B6%E6%90%AD%E5%BB%BA%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/p/lihua_hugo%E6%90%AD%E5%BB%BAblog%E6%88%91%E5%88%A9%E7%94%A8hugo%E6%A1%86%E6%9E%B6%E6%90%AD%E5%BB%BA%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2025-11-23T19:33:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://lihuastudylogs.github.io/LiHua_Srudy_Protect/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/categories/"
+                href="https://lihuastudylogs.github.io/LiHua_Srudy_Protect/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://lihuastudylogs.github.io/LiHua_Srudy_Protect/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/tags/"
+                href="https://lihuastudylogs.github.io/LiHua_Srudy_Protect/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/test/</loc>
+    <loc>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/categories/test/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/test/"
+                href="https://lihuastudylogs.github.io/LiHua_Srudy_Protect/en/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/categories/test/"
+                href="https://lihuastudylogs.github.io/LiHua_Srudy_Protect/categories/test/"
                 />
   </url><url>
-    <loc>http://localhost:1313/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>http://localhost:1313/%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E9%93%BE%E6%8E%A5/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/search/</loc>
   </url>
 </urlset>

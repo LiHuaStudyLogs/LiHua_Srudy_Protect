@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on 我的博客——网络日志</title>
-        <link>http://localhost:1313/page/</link>
+        <link>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/page/</link>
         <description>Recent content in Pages on 我的博客——网络日志</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>陈雨轩 | MyFirstBlog</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lihuastudylogs.github.io/LiHua_Srudy_Protect/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>文档</title>
-        <link>http://localhost:1313/archives/</link>
+        <link>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
+        <guid>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>其他工具链接</title>
-        <link>http://localhost:1313/%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E9%93%BE%E6%8E%A5/</link>
+        <link>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E9%93%BE%E6%8E%A5/</guid>
+        <guid>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -61,10 +61,10 @@
         </item>
         <item>
         <title>搜索</title>
-        <link>http://localhost:1313/search/</link>
+        <link>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>https://lihuastudylogs.github.io/LiHua_Srudy_Protect/search/</guid>
         <description></description>
         </item>
         
